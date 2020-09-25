@@ -8,4 +8,4 @@ categories: jekyll update
 ---
 
 This is my 8 year soccer team
-![ak27](https://github.com/LENGHIA-CN8/blog/tree/master/img/AK27.jpg)
+![ak27](https://lenghia-cn8.github.io/blog/img/AK27.jpg)
